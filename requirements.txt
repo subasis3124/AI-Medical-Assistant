@@ -1,0 +1,12 @@
+flask
+pinecone
+pinecone[grpc]
+dotenv
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-pinecone
+pypdf
+ipykernel
+sentence-transformers
