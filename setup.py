@@ -4,8 +4,8 @@ setup(
     name = "Medical AI Assistant",
     version="0.0.0",
     description="This is medical assistant Artificial Intelligent based app",
-    author="Subrat Mishra",
-    author_email="3subratmishra1sep@gmail.com",
+    author="Subasis Mishra",
+    author_email="subasismishra3124@gmail.com",
     packages= find_packages(),
     install_requires = []
 )
